@@ -1,2 +1,3 @@
-# Mi tarea de Git - cambio directo en master
+
+# Mi tarea de Git - conflicto resuelto
 Agreado por Mauri
