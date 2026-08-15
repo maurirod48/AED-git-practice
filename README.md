@@ -1,2 +1,2 @@
-#Mi tarea de Git - cambio desde conflict
+# Mi tarea de Git - cambio en la rama
 Agreado por Mauri
